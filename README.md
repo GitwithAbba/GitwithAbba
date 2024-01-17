@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GitWithAbba-Epoca aka Matthew;
+- 👋 Hi, I’m @GitWithAbba aka Matthew;
 - 👀 I’m interested in Jesus, Family, Programming;
 - 🌱 I’m currently learning Javascript;
 - 💞️ I’m looking to collaborate on many projects;
